@@ -155,7 +155,7 @@ The app utilizes a Supabase Edge Function to securely delete images from Cloudin
     -   Note the `Upload preset name`.
 4.  **Update `.env` and Supabase Secrets**: Use these values in your `.env` file and set them as Supabase secrets as described above.
 
-## ▶️ Running the App
+## Running the App
 
 1.  **Start the Expo Development Server**:
     ```bash
@@ -164,7 +164,7 @@ The app utilizes a Supabase Edge Function to securely delete images from Cloudin
 2.  **Open in Expo Go**:
     Scan the QR code displayed in your terminal with the Expo Go app on your phone.
 
-## 🤝 Planned Features
+## Planned Features
 1. Allow users to update any of their current receipts in case there were errors in entry
 2. Update database to include users metadata to also be included such as name
 3. Integrate OCR capabilities to autofill totals, dates, and times
